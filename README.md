@@ -126,7 +126,7 @@ The entire application is contained within the `main.go` file.
 
 ### Request
 
-`PUT /users/{userId}`
+`DELETE /users/{userId}`
 
 #### Authentication Required [Bearer Token]
 
@@ -319,7 +319,7 @@ The entire application is contained within the `main.go` file.
 
 ### Request
 
-`PUT /posts/{postId}`
+`DELETE /posts/{postId}`
 
 #### Authentication Required [Bearer Token]
 
