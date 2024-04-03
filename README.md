@@ -63,8 +63,8 @@ The entire application is contained within the `main.go` file.
 
 ### Request
 
-`GET /users`
-`GET /users?user=[TEXT_TO_FILTER_FOR]` 
+- `GET /users`
+- `GET /users?user=[TEXT_TO_FILTER_FOR]` 
 
 #### Authentication Required [Bearer Token]
 
