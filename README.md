@@ -237,6 +237,8 @@ The entire application is contained within the `main.go` file.
 
 `POST /posts`
 
+#### Authentication Required [Bearer Token]
+
 ### Body
 
   {
